@@ -1,5 +1,5 @@
 # Walk-through-all-repository
-Repositories relating to various projects and various are available 
+Repositories relating to various projects  are available 
 
 1)COMPUTER VISION
 
